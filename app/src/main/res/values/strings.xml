@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Applicatioproject 4</string>
+    <string name="button_text1">ADD DIAPER</string>
+    <string name="button_text2">CLEAR ALL</string>
+    <string name="diper_de">A diper is being changed</string>
+    <string name="radio_buttonnn">Dirty</string>
+    <string name="radio_buttonhh">Wet</string>
+    <string name="raddio_butoomm">Dry</string>
+</resources>
